@@ -1,6 +1,7 @@
 # AI_Agent_Educations
 Study bot for computer science
 Project worked on within the group EdatozTraining
+
 Agentic Chat + Code Runner
 Streamlit app with three components:
 Agentic chatbot using Groq (Llama 3) and LangChain tools
